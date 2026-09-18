@@ -1,0 +1,9 @@
+opencv-python==4.10.0.84
+numpy==1.24.4
+pynput
+absl-py
+attrs
+flatbuffers
+matplotlib==3.7.5
+protobuf==3.20.3
+sounddevice

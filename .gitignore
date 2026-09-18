@@ -1,0 +1,8 @@
+GtaV-Control/GtaV-HandGestureControl.zip
+GtaV-Control/.venv/
+GtaV-Control/.venv-*/
+GtaV-Control/__pycache__/
+GtaV-Control/.mplconfig/
+GtaV-Control/.mplconfig-*/
+GtaVControl/
+resolution.png
