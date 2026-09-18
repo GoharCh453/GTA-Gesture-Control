@@ -64,3 +64,7 @@ This verifies Left, Right, Backward, and Jump mappings without sending keyboard 
 ## License and Attribution
 
 The live controller is maintained by Gohar Fatima. See [LICENSE](LICENSE) for the complete legal notice.
+
+## Project Demo
+
+![GTA V Hand Gesture Control Demo](assets/project-demo.jpg)
