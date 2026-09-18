@@ -67,4 +67,4 @@ The live controller is maintained by Gohar Fatima. See [LICENSE](LICENSE) for th
 
 ## Project Demo
 
-![GTA V Hand Gesture Control Demo](assets/project-demo.jpg)
+![GTA V Hand Gesture Control Demo](GtaV-Control/assets/project-demo.jpg)
